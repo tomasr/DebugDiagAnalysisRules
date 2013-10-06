@@ -31,7 +31,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <DebugDiagLocation>c:\tomasr\tools\DebugDiagV2.0\x64\Public\DebugDiag</DebugDiagLocation>      
+    <DebugDiagLocation>c:\DebugDiag2.0\</DebugDiagLocation>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ClrMemDiagExt">
