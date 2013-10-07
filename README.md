@@ -7,7 +7,7 @@ This is a set of sample dump analysis rules for [http://blogs.msdn.com/b/debugdi
 
 ## Usage Instructions
 
-1. Download and install [http://www.microsoft.com/en-us/download/details.aspx?id=40336](DebugDiag 2.0).
+1. Download and install DebugDiag v2.0 from http://www.microsoft.com/en-us/download/details.aspx?id=40336
 2. Open Winterdom.DebugDiag.AnalysisRules.csproj in a text editor.
 3. Locate the <DebugDiagLocation> element and modify it to point to your DebugDiag installation. VS will pick up the reference assemblies from this location, and will try to copy the resulting assembly to the <DebugDiag>\AnalysisRules folder.
 ```xml
